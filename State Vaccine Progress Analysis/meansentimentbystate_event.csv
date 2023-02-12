@@ -1,0 +1,911 @@
+﻿State,Before/After,Event,Start Date,End Date,Mean Sentiment,% Change in Sentiment,Count of Tweets
+California,One month before,Gamma Variant,12/24/20,1/24/21,0.432712215,,483
+California,One month after,Gamma Variant,1/25/21,2/25/21,0.534290271,23.47,627
+California,One month before,Beta Variant,12/27/20,1/27/21,0.442084942,,518
+California,One month after,Beta Variant,1/28/21,2/28/21,0.535885167,21.22,627
+California,One month before,Delta Variant,6/6/21,7/6/21,0.501457726,,686
+California,One month after,Delta Variant,7/7/21,8/7/21,0.486225895,-3.04,726
+California,One month before,Omicron Variant,10/30/21,11/30/21,0.461702128,,470
+California,One month after,Omicron Variant,12/1/21,1/1/22,0.450207469,-2.49,482
+California,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.62290227,,1013
+California,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.495166488,-20.51,931
+California,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.510335917,,774
+California,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.5408,5.97,625
+California,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.525,,640
+California,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.394052045,-24.94,538
+California,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.377952756,,508
+California,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.446808511,18.22,470
+California,One month before,Pause in J&J,3/12/21,4/12/21,0.650505051,,990
+California,One month after,Pause in J&J,4/13/21,5/13/21,0.603379722,-7.24,1006
+Alabama,One month before,Gamma Variant,12/24/20,1/24/21,0.421052632,,19
+Alabama,One month after,Gamma Variant,1/25/21,2/25/21,0.677419355,60.89,31
+Alabama,One month before,Beta Variant,12/27/20,1/27/21,0.476190476,,21
+Alabama,One month after,Beta Variant,1/28/21,2/28/21,0.666666667,40,30
+Alabama,One month before,Delta Variant,6/6/21,7/6/21,0.555555556,,9
+Alabama,One month after,Delta Variant,7/7/21,8/7/21,0.710526316,27.89,38
+Alabama,One month before,Omicron Variant,10/30/21,11/30/21,0.411764706,,17
+Alabama,One month after,Omicron Variant,12/1/21,1/1/22,0.272727273,-33.77,11
+Alabama,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.666666667,,27
+Alabama,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.25,-62.5,12
+Alabama,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.648648649,,37
+Alabama,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.615384615,-5.13,39
+Alabama,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.605263158,,38
+Alabama,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.142857143,-76.4,14
+Alabama,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.181818182,,11
+Alabama,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.333333333,83.33,18
+Alabama,One month before,Pause in J&J,3/12/21,4/12/21,0.5,,20
+Alabama,One month after,Pause in J&J,4/13/21,5/13/21,0.636363636,27.27,22
+Alaska,One month before,Gamma Variant,12/24/20,1/24/21,0.375,,8
+Alaska,One month after,Gamma Variant,1/25/21,2/25/21,0.363636364,-3.03,11
+Alaska,One month before,Beta Variant,12/27/20,1/27/21,0.333333333,,9
+Alaska,One month after,Beta Variant,1/28/21,2/28/21,0.333333333,0,9
+Alaska,One month before,Delta Variant,6/6/21,7/6/21,0.857142857,,7
+Alaska,One month after,Delta Variant,7/7/21,8/7/21,0.631578947,-26.32,19
+Alaska,One month before,Omicron Variant,10/30/21,11/30/21,0.285714286,,7
+Alaska,One month after,Omicron Variant,12/1/21,1/1/22,0.5,75,4
+Alaska,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.571428571,,7
+Alaska,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.166666667,-70.83,6
+Alaska,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.705882353,,17
+Alaska,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0,-100,5
+Alaska,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.166666667,,6
+Alaska,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.9,440,10
+Alaska,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.909090909,,11
+Alaska,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.285714286,-68.57,7
+Alaska,One month before,Pause in J&J,3/12/21,4/12/21,0.583333333,,12
+Alaska,One month after,Pause in J&J,4/13/21,5/13/21,0.428571429,-26.53,7
+Arizona,One month before,Gamma Variant,12/24/20,1/24/21,0.489795918,,49
+Arizona,One month after,Gamma Variant,1/25/21,2/25/21,0.5,2.08,74
+Arizona,One month before,Beta Variant,12/27/20,1/27/21,0.489361702,,47
+Arizona,One month after,Beta Variant,1/28/21,2/28/21,0.519480519,6.15,77
+Arizona,One month before,Delta Variant,6/6/21,7/6/21,0.735294118,,34
+Arizona,One month after,Delta Variant,7/7/21,8/7/21,0.383561644,-47.84,73
+Arizona,One month before,Omicron Variant,10/30/21,11/30/21,0.254901961,,51
+Arizona,One month after,Omicron Variant,12/1/21,1/1/22,0.488888889,91.79,45
+Arizona,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.428571429,,70
+Arizona,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.538461538,25.64,52
+Arizona,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.438356164,,73
+Arizona,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.272727273,-37.78,55
+Arizona,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.407407407,,54
+Arizona,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.129032258,-68.33,62
+Arizona,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.25,,64
+Arizona,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.283018868,13.21,53
+Arizona,One month before,Pause in J&J,3/12/21,4/12/21,0.590909091,,88
+Arizona,One month after,Pause in J&J,4/13/21,5/13/21,0.365079365,-38.22,63
+Arkansas,One month before,Gamma Variant,12/24/20,1/24/21,0.625,,8
+Arkansas,One month after,Gamma Variant,1/25/21,2/25/21,0.8,28,5
+Arkansas,One month before,Beta Variant,12/27/20,1/27/21,0.625,,8
+Arkansas,One month after,Beta Variant,1/28/21,2/28/21,0.75,20,8
+Arkansas,One month before,Delta Variant,6/6/21,7/6/21,1,,3
+Arkansas,One month after,Delta Variant,7/7/21,8/7/21,0.375,-62.5,8
+Arkansas,One month before,Omicron Variant,10/30/21,11/30/21,1,,3
+Arkansas,One month after,Omicron Variant,12/1/21,1/1/22,1,0,1
+Arkansas,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,-0.2,,5
+Arkansas,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,-0.4,100,5
+Arkansas,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.5,,4
+Arkansas,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,-0.176470588,-135.29,17
+Arkansas,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,-0.176470588,,17
+Arkansas,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,-0.142857143,-19.05,7
+Arkansas,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,-0.2,,10
+Arkansas,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,-600,3
+Arkansas,One month before,Pause in J&J,3/12/21,4/12/21,0.875,,8
+Arkansas,One month after,Pause in J&J,4/13/21,5/13/21,-0.5,-157.14,4
+Colorado,One month before,Gamma Variant,12/24/20,1/24/21,0.418181818,,55
+Colorado,One month after,Gamma Variant,1/25/21,2/25/21,0.7,67.39,50
+Colorado,One month before,Beta Variant,12/27/20,1/27/21,0.490566038,,53
+Colorado,One month after,Beta Variant,1/28/21,2/28/21,0.613636364,25.09,44
+Colorado,One month before,Delta Variant,6/6/21,7/6/21,0.466666667,,45
+Colorado,One month after,Delta Variant,7/7/21,8/7/21,0.633333333,35.71,30
+Colorado,One month before,Omicron Variant,10/30/21,11/30/21,0.55,,40
+Colorado,One month after,Omicron Variant,12/1/21,1/1/22,0.628571429,14.29,35
+Colorado,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.492063492,,63
+Colorado,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.545454545,10.85,55
+Colorado,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.529411765,,34
+Colorado,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.513513514,-3,37
+Colorado,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.472222222,,36
+Colorado,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.37037037,-21.57,27
+Colorado,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.291666667,,24
+Colorado,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.58974359,102.2,39
+Colorado,One month before,Pause in J&J,3/12/21,4/12/21,0.588235294,,85
+Colorado,One month after,Pause in J&J,4/13/21,5/13/21,0.546875,-7.03,64
+Connecticut,One month before,Gamma Variant,12/24/20,1/24/21,0.642857143,,28
+Connecticut,One month after,Gamma Variant,1/25/21,2/25/21,0.425,-33.89,40
+Connecticut,One month before,Beta Variant,12/27/20,1/27/21,0.535714286,,28
+Connecticut,One month after,Beta Variant,1/28/21,2/28/21,0.441176471,-17.65,34
+Connecticut,One month before,Delta Variant,6/6/21,7/6/21,0.0625,,16
+Connecticut,One month after,Delta Variant,7/7/21,8/7/21,0.575757576,821.21,33
+Connecticut,One month before,Omicron Variant,10/30/21,11/30/21,0.75862069,,29
+Connecticut,One month after,Omicron Variant,12/1/21,1/1/22,0.567567568,-25.18,37
+Connecticut,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.565217391,,46
+Connecticut,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.6,6.15,35
+Connecticut,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.486486486,,37
+Connecticut,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.5,2.78,40
+Connecticut,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.512195122,,41
+Connecticut,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.28125,-45.09,32
+Connecticut,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.4,,30
+Connecticut,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.821428571,105.36,28
+Connecticut,One month before,Pause in J&J,3/12/21,4/12/21,0.488888889,,45
+Connecticut,One month after,Pause in J&J,4/13/21,5/13/21,0.568181818,16.22,44
+Delaware,One month before,Gamma Variant,12/24/20,1/24/21,0.142857143,,7
+Delaware,One month after,Gamma Variant,1/25/21,2/25/21,0.8,460,10
+Delaware,One month before,Beta Variant,12/27/20,1/27/21,0.25,,8
+Delaware,One month after,Beta Variant,1/28/21,2/28/21,0.777777778,211.11,9
+Delaware,One month before,Delta Variant,6/6/21,7/6/21,0.6,,10
+Delaware,One month after,Delta Variant,7/7/21,8/7/21,0.25,-58.33,4
+Delaware,One month before,Omicron Variant,10/30/21,11/30/21,0.666666667,,6
+Delaware,One month after,Omicron Variant,12/1/21,1/1/22,0.333333333,-50,3
+Delaware,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,1,,3
+Delaware,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,1,0,5
+Delaware,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.571428571,,7
+Delaware,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,-0.333333333,-158.33,3
+Delaware,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,-0.333333333,,3
+Delaware,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0,-100,3
+Delaware,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.333333333,,3
+Delaware,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.666666667,100,6
+Delaware,One month before,Pause in J&J,3/12/21,4/12/21,1,,3
+Delaware,One month after,Pause in J&J,4/13/21,5/13/21,1,0,4
+District of Columbia,One month before,Gamma Variant,12/24/20,1/24/21,0.39516129,,124
+District of Columbia,One month after,Gamma Variant,1/25/21,2/25/21,0.513089005,29.84,191
+District of Columbia,One month before,Beta Variant,12/27/20,1/27/21,0.448529412,,136
+District of Columbia,One month after,Beta Variant,1/28/21,2/28/21,0.473684211,5.61,190
+District of Columbia,One month before,Delta Variant,6/6/21,7/6/21,0.686746988,,166
+District of Columbia,One month after,Delta Variant,7/7/21,8/7/21,0.606965174,-11.62,201
+District of Columbia,One month before,Omicron Variant,10/30/21,11/30/21,0.597560976,,164
+District of Columbia,One month after,Omicron Variant,12/1/21,1/1/22,0.614754098,2.88,122
+District of Columbia,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.617283951,,162
+District of Columbia,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.698113208,13.09,159
+District of Columbia,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.614457831,,166
+District of Columbia,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.576719577,-6.14,189
+District of Columbia,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.577639752,,161
+District of Columbia,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.521276596,-9.76,188
+District of Columbia,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.527173913,,184
+District of Columbia,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.588607595,11.65,158
+District of Columbia,One month before,Pause in J&J,3/12/21,4/12/21,0.577540107,,187
+District of Columbia,One month after,Pause in J&J,4/13/21,5/13/21,0.614906832,6.47,161
+Florida,One month before,Gamma Variant,12/24/20,1/24/21,0.386740331,,181
+Florida,One month after,Gamma Variant,1/25/21,2/25/21,0.425925926,10.13,162
+Florida,One month before,Beta Variant,12/27/20,1/27/21,0.385416667,,192
+Florida,One month after,Beta Variant,1/28/21,2/28/21,0.428571429,11.2,161
+Florida,One month before,Delta Variant,6/6/21,7/6/21,0.193877551,,98
+Florida,One month after,Delta Variant,7/7/21,8/7/21,0.423529412,118.45,170
+Florida,One month before,Omicron Variant,10/30/21,11/30/21,0.348837209,,129
+Florida,One month after,Omicron Variant,12/1/21,1/1/22,0.211267606,-39.44,142
+Florida,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.530612245,,147
+Florida,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.267241379,-49.64,116
+Florida,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.406417112,,187
+Florida,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.459183673,12.98,196
+Florida,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.481675393,,191
+Florida,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.118110236,-75.48,127
+Florida,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.149253731,,134
+Florida,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.346153846,131.92,130
+Florida,One month before,Pause in J&J,3/12/21,4/12/21,0.552631579,,228
+Florida,One month after,Pause in J&J,4/13/21,5/13/21,0.478873239,-13.35,142
+Georgia,One month before,Gamma Variant,12/24/20,1/24/21,0.442622951,,61
+Georgia,One month after,Gamma Variant,1/25/21,2/25/21,0.337349398,-23.78,83
+Georgia,One month before,Beta Variant,12/27/20,1/27/21,0.403225806,,62
+Georgia,One month after,Beta Variant,1/28/21,2/28/21,0.337349398,-16.34,83
+Georgia,One month before,Delta Variant,6/6/21,7/6/21,0.37254902,,51
+Georgia,One month after,Delta Variant,7/7/21,8/7/21,0.626865672,68.26,67
+Georgia,One month before,Omicron Variant,10/30/21,11/30/21,0.558823529,,68
+Georgia,One month after,Omicron Variant,12/1/21,1/1/22,0.2,-64.21,40
+Georgia,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.518518519,,81
+Georgia,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.352941176,-31.93,51
+Georgia,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.540229885,,87
+Georgia,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.283333333,-47.55,60
+Georgia,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.295081967,,61
+Georgia,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.365079365,23.72,63
+Georgia,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.442307692,,52
+Georgia,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.565217391,27.79,69
+Georgia,One month before,Pause in J&J,3/12/21,4/12/21,0.53125,,96
+Georgia,One month after,Pause in J&J,4/13/21,5/13/21,0.45,-15.29,80
+Hawaii,One month before,Gamma Variant,12/24/20,1/24/21,0.615384615,,13
+Hawaii,One month after,Gamma Variant,1/25/21,2/25/21,0.411764706,-33.09,17
+Hawaii,One month before,Beta Variant,12/27/20,1/27/21,0.538461538,,13
+Hawaii,One month after,Beta Variant,1/28/21,2/28/21,0.5,-7.14,18
+Hawaii,One month before,Delta Variant,6/6/21,7/6/21,0.714285714,,14
+Hawaii,One month after,Delta Variant,7/7/21,8/7/21,0.695652174,-2.61,23
+Hawaii,One month before,Omicron Variant,10/30/21,11/30/21,0.666666667,,12
+Hawaii,One month after,Omicron Variant,12/1/21,1/1/22,0.9375,40.63,16
+Hawaii,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.736842105,,19
+Hawaii,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.5,-32.14,10
+Hawaii,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.75,,20
+Hawaii,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.777777778,3.7,9
+Hawaii,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.818181818,,11
+Hawaii,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.2,-75.56,10
+Hawaii,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.363636364,,11
+Hawaii,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.666666667,83.33,12
+Hawaii,One month before,Pause in J&J,3/12/21,4/12/21,0.526315789,,19
+Hawaii,One month after,Pause in J&J,4/13/21,5/13/21,0.8,52,15
+Idaho,One month before,Gamma Variant,12/24/20,1/24/21,0.416666667,,12
+Idaho,One month after,Gamma Variant,1/25/21,2/25/21,0.555555556,33.33,27
+Idaho,One month before,Beta Variant,12/27/20,1/27/21,0.571428571,,14
+Idaho,One month after,Beta Variant,1/28/21,2/28/21,0.538461538,-5.77,26
+Idaho,One month before,Delta Variant,6/6/21,7/6/21,0,,2
+Idaho,One month after,Delta Variant,7/7/21,8/7/21,0.5,#DIV/0!,8
+Idaho,One month before,Omicron Variant,10/30/21,11/30/21,0.8,,10
+Idaho,One month after,Omicron Variant,12/1/21,1/1/22,1,25,5
+Idaho,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.5,,14
+Idaho,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,1,100,2
+Idaho,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.083333333,,12
+Idaho,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,1,1100,11
+Idaho,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,1,,11
+Idaho,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.3,-70,10
+Idaho,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.222222222,,9
+Idaho,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,350,9
+Idaho,One month before,Pause in J&J,3/12/21,4/12/21,0.428571429,,7
+Idaho,One month after,Pause in J&J,4/13/21,5/13/21,0.583333333,36.11,12
+Illinois,One month before,Gamma Variant,12/24/20,1/24/21,0.47826087,,138
+Illinois,One month after,Gamma Variant,1/25/21,2/25/21,0.472,-1.31,125
+Illinois,One month before,Beta Variant,12/27/20,1/27/21,0.467948718,,156
+Illinois,One month after,Beta Variant,1/28/21,2/28/21,0.47706422,1.95,109
+Illinois,One month before,Delta Variant,6/6/21,7/6/21,0.137931034,,87
+Illinois,One month after,Delta Variant,7/7/21,8/7/21,0.22,59.5,100
+Illinois,One month before,Omicron Variant,10/30/21,11/30/21,0.450549451,,91
+Illinois,One month after,Omicron Variant,12/1/21,1/1/22,0.060869565,-86.49,115
+Illinois,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.522727273,,132
+Illinois,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.517647059,-0.97,85
+Illinois,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.28440367,,109
+Illinois,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.147368421,-48.18,95
+Illinois,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.192771084,,83
+Illinois,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.329787234,71.08,94
+Illinois,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.337209302,,86
+Illinois,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.494382022,46.61,89
+Illinois,One month before,Pause in J&J,3/12/21,4/12/21,0.341269841,,126
+Illinois,One month after,Pause in J&J,4/13/21,5/13/21,0.503759398,47.61,133
+Indiana,One month before,Gamma Variant,12/24/20,1/24/21,0.513513514,,37
+Indiana,One month after,Gamma Variant,1/25/21,2/25/21,0.444444444,-13.45,36
+Indiana,One month before,Beta Variant,12/27/20,1/27/21,0.465116279,,43
+Indiana,One month after,Beta Variant,1/28/21,2/28/21,0.485714286,4.43,35
+Indiana,One month before,Delta Variant,6/6/21,7/6/21,0.045454545,,22
+Indiana,One month after,Delta Variant,7/7/21,8/7/21,0.266666667,486.67,15
+Indiana,One month before,Omicron Variant,10/30/21,11/30/21,0.35483871,,31
+Indiana,One month after,Omicron Variant,12/1/21,1/1/22,0.423076923,19.23,26
+Indiana,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.5,,32
+Indiana,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.111111111,-77.78,18
+Indiana,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.428571429,,21
+Indiana,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.272727273,-36.36,22
+Indiana,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.333333333,,24
+Indiana,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.44,32,25
+Indiana,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.391304348,,23
+Indiana,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.357142857,-8.73,28
+Indiana,One month before,Pause in J&J,3/12/21,4/12/21,0.6,,50
+Indiana,One month after,Pause in J&J,4/13/21,5/13/21,0.424242424,-29.29,33
+Iowa,One month before,Gamma Variant,12/24/20,1/24/21,0.5,,12
+Iowa,One month after,Gamma Variant,1/25/21,2/25/21,0.3125,-37.5,16
+Iowa,One month before,Beta Variant,12/27/20,1/27/21,0.5,,12
+Iowa,One month after,Beta Variant,1/28/21,2/28/21,0.3125,-37.5,16
+Iowa,One month before,Delta Variant,6/6/21,7/6/21,0.681818182,,22
+Iowa,One month after,Delta Variant,7/7/21,8/7/21,0.625,-8.33,16
+Iowa,One month before,Omicron Variant,10/30/21,11/30/21,0.888888889,,9
+Iowa,One month after,Omicron Variant,12/1/21,1/1/22,0.428571429,-51.79,7
+Iowa,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.625,,16
+Iowa,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.461538462,-26.15,13
+Iowa,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.5,,6
+Iowa,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.333333333,-33.33,9
+Iowa,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.555555556,,9
+Iowa,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0,-100,8
+Iowa,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.142857143,,7
+Iowa,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.888888889,522.22,9
+Iowa,One month before,Pause in J&J,3/12/21,4/12/21,0.8,,20
+Iowa,One month after,Pause in J&J,4/13/21,5/13/21,0.692307692,-13.46,13
+Kansas,One month before,Gamma Variant,12/24/20,1/24/21,1,,3
+Kansas,One month after,Gamma Variant,1/25/21,2/25/21,0.416666667,-58.33,12
+Kansas,One month before,Beta Variant,12/27/20,1/27/21,0.8,,5
+Kansas,One month after,Beta Variant,1/28/21,2/28/21,0.454545455,-43.18,11
+Kansas,One month before,Delta Variant,6/6/21,7/6/21,1,,3
+Kansas,One month after,Delta Variant,7/7/21,8/7/21,0.428571429,-57.14,14
+Kansas,One month before,Omicron Variant,10/30/21,11/30/21,1,,2
+Kansas,One month after,Omicron Variant,12/1/21,1/1/22,1,0,1
+Kansas,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,1,,3
+Kansas,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,1,0,4
+Kansas,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.9,,10
+Kansas,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,1,11.11,1
+Kansas,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,1,,1
+Kansas,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.25,-75,4
+Kansas,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.4,,5
+Kansas,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,150,2
+Kansas,One month before,Pause in J&J,3/12/21,4/12/21,1,,5
+Kansas,One month after,Pause in J&J,4/13/21,5/13/21,1,0,4
+Kentucky,One month before,Gamma Variant,12/24/20,1/24/21,0.615384615,,39
+Kentucky,One month after,Gamma Variant,1/25/21,2/25/21,0.56,-9,25
+Kentucky,One month before,Beta Variant,12/27/20,1/27/21,0.666666667,,39
+Kentucky,One month after,Beta Variant,1/28/21,2/28/21,0.607142857,-8.93,28
+Kentucky,One month before,Delta Variant,6/6/21,7/6/21,0.222222222,,18
+Kentucky,One month after,Delta Variant,7/7/21,8/7/21,0.625,181.25,16
+Kentucky,One month before,Omicron Variant,10/30/21,11/30/21,0.576923077,,26
+Kentucky,One month after,Omicron Variant,12/1/21,1/1/22,0,-100,9
+Kentucky,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.5,,28
+Kentucky,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.391304348,-21.74,23
+Kentucky,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.615384615,,26
+Kentucky,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.473684211,-23.03,19
+Kentucky,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.5,,20
+Kentucky,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.590909091,18.18,22
+Kentucky,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.590909091,,22
+Kentucky,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.576923077,-2.37,26
+Kentucky,One month before,Pause in J&J,3/12/21,4/12/21,0.590909091,,22
+Kentucky,One month after,Pause in J&J,4/13/21,5/13/21,0.482758621,-18.3,29
+Louisiana,One month before,Gamma Variant,12/24/20,1/24/21,0.157894737,,19
+Louisiana,One month after,Gamma Variant,1/25/21,2/25/21,0.545454545,245.45,33
+Louisiana,One month before,Beta Variant,12/27/20,1/27/21,0.15,,20
+Louisiana,One month after,Beta Variant,1/28/21,2/28/21,0.588235294,292.16,34
+Louisiana,One month before,Delta Variant,6/6/21,7/6/21,0.333333333,,18
+Louisiana,One month after,Delta Variant,7/7/21,8/7/21,0.285714286,-14.29,21
+Louisiana,One month before,Omicron Variant,10/30/21,11/30/21,0.466666667,,30
+Louisiana,One month after,Omicron Variant,12/1/21,1/1/22,0.304347826,-34.78,23
+Louisiana,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.681818182,,22
+Louisiana,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.333333333,-51.11,21
+Louisiana,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.425,,40
+Louisiana,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.684210526,60.99,19
+Louisiana,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.681818182,,22
+Louisiana,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.347826087,-48.99,23
+Louisiana,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.457142857,,35
+Louisiana,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.464285714,1.56,28
+Louisiana,One month before,Pause in J&J,3/12/21,4/12/21,0.709677419,,31
+Louisiana,One month after,Pause in J&J,4/13/21,5/13/21,0.631578947,-11,19
+Maine,One month before,Gamma Variant,12/24/20,1/24/21,0.2,,5
+Maine,One month after,Gamma Variant,1/25/21,2/25/21,1,400,4
+Maine,One month before,Beta Variant,12/27/20,1/27/21,0.428571429,,7
+Maine,One month after,Beta Variant,1/28/21,2/28/21,1,133.33,2
+Maine,One month before,Delta Variant,6/6/21,7/6/21,-1,,1
+Maine,One month after,Delta Variant,7/7/21,8/7/21,0.333333333,-133.33,3
+Maine,One month before,Omicron Variant,10/30/21,11/30/21,1,,4
+Maine,One month after,Omicron Variant,12/1/21,1/1/22,0.8,-20,5
+Maine,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.555555556,,9
+Maine,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.777777778,40,9
+Maine,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.4,,5
+Maine,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.583333333,45.83,12
+Maine,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.666666667,,12
+Maine,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.142857143,-78.57,7
+Maine,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.166666667,,6
+Maine,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,500,5
+Maine,One month before,Pause in J&J,3/12/21,4/12/21,1,,4
+Maine,One month after,Pause in J&J,4/13/21,5/13/21,0.5,-50,12
+Maryland,One month before,Gamma Variant,12/24/20,1/24/21,0.482142857,,56
+Maryland,One month after,Gamma Variant,1/25/21,2/25/21,0.346938776,-28.04,98
+Maryland,One month before,Beta Variant,12/27/20,1/27/21,0.466666667,,60
+Maryland,One month after,Beta Variant,1/28/21,2/28/21,0.383838384,-17.75,99
+Maryland,One month before,Delta Variant,6/6/21,7/6/21,0.423076923,,52
+Maryland,One month after,Delta Variant,7/7/21,8/7/21,0.660714286,56.17,56
+Maryland,One month before,Omicron Variant,10/30/21,11/30/21,0.387755102,,49
+Maryland,One month after,Omicron Variant,12/1/21,1/1/22,0.5625,45.07,48
+Maryland,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.6,,65
+Maryland,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.531914894,-11.35,47
+Maryland,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.490196078,,51
+Maryland,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.166666667,-66,72
+Maryland,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.126984127,,63
+Maryland,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.448979592,253.57,49
+Maryland,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.463414634,,41
+Maryland,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.411764706,-11.15,51
+Maryland,One month before,Pause in J&J,3/12/21,4/12/21,0.551282051,,78
+Maryland,One month after,Pause in J&J,4/13/21,5/13/21,0.65,17.91,60
+Massachusetts,One month before,Gamma Variant,12/24/20,1/24/21,0.558333333,,120
+Massachusetts,One month after,Gamma Variant,1/25/21,2/25/21,0.62755102,12.4,196
+Massachusetts,One month before,Beta Variant,12/27/20,1/27/21,0.552,,125
+Massachusetts,One month after,Beta Variant,1/28/21,2/28/21,0.651741294,18.07,201
+Massachusetts,One month before,Delta Variant,6/6/21,7/6/21,0.577464789,,71
+Massachusetts,One month after,Delta Variant,7/7/21,8/7/21,0.5,-13.41,88
+Massachusetts,One month before,Omicron Variant,10/30/21,11/30/21,0.460526316,,76
+Massachusetts,One month after,Omicron Variant,12/1/21,1/1/22,0.487179487,5.79,78
+Massachusetts,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.61971831,,142
+Massachusetts,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.512820513,-17.25,78
+Massachusetts,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.5,,88
+Massachusetts,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.345238095,-30.95,84
+Massachusetts,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.380952381,,84
+Massachusetts,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.453333333,19,75
+Massachusetts,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.519480519,,77
+Massachusetts,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.461538462,-11.15,78
+Massachusetts,One month before,Pause in J&J,3/12/21,4/12/21,0.679558011,,181
+Massachusetts,One month after,Pause in J&J,4/13/21,5/13/21,0.602836879,-11.29,141
+Michigan,One month before,Gamma Variant,12/24/20,1/24/21,0.357142857,,42
+Michigan,One month after,Gamma Variant,1/25/21,2/25/21,0.492753623,37.97,69
+Michigan,One month before,Beta Variant,12/27/20,1/27/21,0.42,,50
+Michigan,One month after,Beta Variant,1/28/21,2/28/21,0.424242424,1.01,66
+Michigan,One month before,Delta Variant,6/6/21,7/6/21,0.157894737,,38
+Michigan,One month after,Delta Variant,7/7/21,8/7/21,0.305084746,93.22,59
+Michigan,One month before,Omicron Variant,10/30/21,11/30/21,0.458333333,,48
+Michigan,One month after,Omicron Variant,12/1/21,1/1/22,0.265306122,-42.12,49
+Michigan,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.587301587,,63
+Michigan,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.425531915,-27.54,47
+Michigan,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.234042553,,47
+Michigan,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.285714286,22.08,42
+Michigan,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.266666667,,45
+Michigan,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.393939394,47.73,33
+Michigan,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.390243902,,41
+Michigan,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.469387755,20.28,49
+Michigan,One month before,Pause in J&J,3/12/21,4/12/21,0.514285714,,70
+Michigan,One month after,Pause in J&J,4/13/21,5/13/21,0.642857143,25,56
+Minnesota,One month before,Gamma Variant,12/24/20,1/24/21,0.574074074,,54
+Minnesota,One month after,Gamma Variant,1/25/21,2/25/21,0.619047619,7.83,84
+Minnesota,One month before,Beta Variant,12/27/20,1/27/21,0.611111111,,54
+Minnesota,One month after,Beta Variant,1/28/21,2/28/21,0.56626506,-7.34,83
+Minnesota,One month before,Delta Variant,6/6/21,7/6/21,0.551724138,,29
+Minnesota,One month after,Delta Variant,7/7/21,8/7/21,0.470588235,-14.71,51
+Minnesota,One month before,Omicron Variant,10/30/21,11/30/21,0.340425532,,47
+Minnesota,One month after,Omicron Variant,12/1/21,1/1/22,0.647058824,90.07,34
+Minnesota,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.5,,56
+Minnesota,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.666666667,33.33,48
+Minnesota,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.440677966,,59
+Minnesota,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,-0.075,-117.02,40
+Minnesota,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,-0.076923077,,39
+Minnesota,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.032258065,-141.94,31
+Minnesota,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.026315789,,38
+Minnesota,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.3125,1087.5,48
+Minnesota,One month before,Pause in J&J,3/12/21,4/12/21,0.73015873,,63
+Minnesota,One month after,Pause in J&J,4/13/21,5/13/21,0.5,-31.52,60
+Mississippi,One month before,Gamma Variant,12/24/20,1/24/21,0.333333333,,6
+Mississippi,One month after,Gamma Variant,1/25/21,2/25/21,0.230769231,-30.77,13
+Mississippi,One month before,Beta Variant,12/27/20,1/27/21,0.25,,8
+Mississippi,One month after,Beta Variant,1/28/21,2/28/21,0.25,0,12
+Mississippi,One month before,Delta Variant,6/6/21,7/6/21,0.714285714,,7
+Mississippi,One month after,Delta Variant,7/7/21,8/7/21,1,40,3
+Mississippi,One month before,Omicron Variant,10/30/21,11/30/21,0,,2
+Mississippi,One month after,Omicron Variant,12/1/21,1/1/22,0.4,#DIV/0!,5
+Mississippi,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,-0.222222222,,9
+Mississippi,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,1,-550,3
+Mississippi,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.384615385,,13
+Mississippi,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,-0.2,-152,5
+Mississippi,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,-0.2,,5
+Mississippi,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,-0.5,150,2
+Mississippi,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,-0.6,,5
+Mississippi,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0,-100,2
+Mississippi,One month before,Pause in J&J,3/12/21,4/12/21,0.5,,8
+Mississippi,One month after,Pause in J&J,4/13/21,5/13/21,-0.25,-150,8
+Missouri,One month before,Gamma Variant,12/24/20,1/24/21,0.25,,36
+Missouri,One month after,Gamma Variant,1/25/21,2/25/21,0.434782609,73.91,69
+Missouri,One month before,Beta Variant,12/27/20,1/27/21,0.325581395,,43
+Missouri,One month after,Beta Variant,1/28/21,2/28/21,0.430769231,32.31,65
+Missouri,One month before,Delta Variant,6/6/21,7/6/21,0.487804878,,41
+Missouri,One month after,Delta Variant,7/7/21,8/7/21,0.704225352,44.37,71
+Missouri,One month before,Omicron Variant,10/30/21,11/30/21,0.580645161,,31
+Missouri,One month after,Omicron Variant,12/1/21,1/1/22,0.358974359,-38.18,39
+Missouri,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.734693878,,49
+Missouri,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.592592593,-19.34,27
+Missouri,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.648648649,,74
+Missouri,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.395348837,-39.05,43
+Missouri,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.414634146,,41
+Missouri,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.378378378,-8.74,37
+Missouri,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.40625,,32
+Missouri,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.6,47.69,30
+Missouri,One month before,Pause in J&J,3/12/21,4/12/21,0.630136986,,73
+Missouri,One month after,Pause in J&J,4/13/21,5/13/21,0.74,17.43,50
+Montana,One month before,Gamma Variant,12/24/20,1/24/21,0.285714286,,7
+Montana,One month after,Gamma Variant,1/25/21,2/25/21,0.833333333,191.67,6
+Montana,One month before,Beta Variant,12/27/20,1/27/21,0.285714286,,7
+Montana,One month after,Beta Variant,1/28/21,2/28/21,0.857142857,200,7
+Montana,One month before,Delta Variant,6/6/21,7/6/21,0.666666667,,6
+Montana,One month after,Delta Variant,7/7/21,8/7/21,0,-100,4
+Montana,One month before,Omicron Variant,10/30/21,11/30/21,0.272727273,,11
+Montana,One month after,Omicron Variant,12/1/21,1/1/22,0.111111111,-59.26,9
+Montana,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.857142857,,7
+Montana,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.444444444,-48.15,9
+Montana,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.8,,5
+Montana,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.166666667,-79.17,6
+Montana,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.166666667,,6
+Montana,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.333333333,100,3
+Montana,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.25,,4
+Montana,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.3,20,10
+Montana,One month before,Pause in J&J,3/12/21,4/12/21,0.666666667,,15
+Montana,One month after,Pause in J&J,4/13/21,5/13/21,0.833333333,25,6
+Nebraska,One month before,Gamma Variant,12/24/20,1/24/21,0.416666667,,12
+Nebraska,One month after,Gamma Variant,1/25/21,2/25/21,0.7,68,10
+Nebraska,One month before,Beta Variant,12/27/20,1/27/21,0.333333333,,12
+Nebraska,One month after,Beta Variant,1/28/21,2/28/21,0.818181818,145.45,11
+Nebraska,One month before,Delta Variant,6/6/21,7/6/21,0.538461538,,13
+Nebraska,One month after,Delta Variant,7/7/21,8/7/21,0.428571429,-20.41,14
+Nebraska,One month before,Omicron Variant,10/30/21,11/30/21,0.625,,16
+Nebraska,One month after,Omicron Variant,12/1/21,1/1/22,0.352941176,-43.53,17
+Nebraska,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.555555556,,9
+Nebraska,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.666666667,20,9
+Nebraska,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0,,8
+Nebraska,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.388888889,#DIV/0!,18
+Nebraska,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.75,,12
+Nebraska,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.230769231,-69.23,13
+Nebraska,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.666666667,,6
+Nebraska,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.6,-10,15
+Nebraska,One month before,Pause in J&J,3/12/21,4/12/21,0.5,,8
+Nebraska,One month after,Pause in J&J,4/13/21,5/13/21,0.571428571,14.29,7
+New Hampshire,One month before,Gamma Variant,12/24/20,1/24/21,0.466666667,,15
+New Hampshire,One month after,Gamma Variant,1/25/21,2/25/21,0.4375,-6.25,16
+New Hampshire,One month before,Beta Variant,12/27/20,1/27/21,0.428571429,,14
+New Hampshire,One month after,Beta Variant,1/28/21,2/28/21,0.5625,31.25,16
+New Hampshire,One month before,Delta Variant,6/6/21,7/6/21,0.25,,4
+New Hampshire,One month after,Delta Variant,7/7/21,8/7/21,0.875,250,8
+New Hampshire,One month before,Omicron Variant,10/30/21,11/30/21,0.75,,4
+New Hampshire,One month after,Omicron Variant,12/1/21,1/1/22,0.333333333,-55.56,3
+New Hampshire,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.125,,8
+New Hampshire,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.583333333,366.67,12
+New Hampshire,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.571428571,,7
+New Hampshire,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.5,-12.5,6
+New Hampshire,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.5,,6
+New Hampshire,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.444444444,-11.11,9
+New Hampshire,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.666666667,,9
+New Hampshire,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.666666667,0,3
+New Hampshire,One month before,Pause in J&J,3/12/21,4/12/21,0.533333333,,15
+New Hampshire,One month after,Pause in J&J,4/13/21,5/13/21,0.25,-53.13,8
+Nevada,One month before,Gamma Variant,12/24/20,1/24/21,0.457142857,,35
+Nevada,One month after,Gamma Variant,1/25/21,2/25/21,0.466666667,2.08,30
+Nevada,One month before,Beta Variant,12/27/20,1/27/21,0.472222222,,36
+Nevada,One month after,Beta Variant,1/28/21,2/28/21,0.535714286,13.45,28
+Nevada,One month before,Delta Variant,6/6/21,7/6/21,0.32,,25
+Nevada,One month after,Delta Variant,7/7/21,8/7/21,0.375,17.19,32
+Nevada,One month before,Omicron Variant,10/30/21,11/30/21,0.375,,24
+Nevada,One month after,Omicron Variant,12/1/21,1/1/22,0.136363636,-63.64,22
+Nevada,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.444444444,,27
+Nevada,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.545454545,22.73,33
+Nevada,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.333333333,,33
+Nevada,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.388888889,16.67,36
+Nevada,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.454545455,,33
+Nevada,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.242424242,-46.67,33
+Nevada,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.161290323,,31
+Nevada,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.416666667,158.33,24
+Nevada,One month before,Pause in J&J,3/12/21,4/12/21,0.488372093,,43
+Nevada,One month after,Pause in J&J,4/13/21,5/13/21,0.538461538,10.26,26
+New Jersey,One month before,Gamma Variant,12/24/20,1/24/21,0.488372093,,86
+New Jersey,One month after,Gamma Variant,1/25/21,2/25/21,0.416666667,-14.68,72
+New Jersey,One month before,Beta Variant,12/27/20,1/27/21,0.506024096,,83
+New Jersey,One month after,Beta Variant,1/28/21,2/28/21,0.383561644,-24.2,73
+New Jersey,One month before,Delta Variant,6/6/21,7/6/21,0.25,,36
+New Jersey,One month after,Delta Variant,7/7/21,8/7/21,0.466666667,86.67,60
+New Jersey,One month before,Omicron Variant,10/30/21,11/30/21,0.490909091,,55
+New Jersey,One month after,Omicron Variant,12/1/21,1/1/22,0.255813953,-47.89,43
+New Jersey,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.630769231,,65
+New Jersey,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.5,-20.73,34
+New Jersey,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.763636364,,55
+New Jersey,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.5,-34.52,44
+New Jersey,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.511627907,,43
+New Jersey,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.411764706,-19.52,51
+New Jersey,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.368421053,,57
+New Jersey,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.473684211,28.57,57
+New Jersey,One month before,Pause in J&J,3/12/21,4/12/21,0.454545455,,55
+New Jersey,One month after,Pause in J&J,4/13/21,5/13/21,0.65625,44.38,64
+New Mexico,One month before,Gamma Variant,12/24/20,1/24/21,0.368421053,,19
+New Mexico,One month after,Gamma Variant,1/25/21,2/25/21,0.363636364,-1.3,22
+New Mexico,One month before,Beta Variant,12/27/20,1/27/21,0.333333333,,21
+New Mexico,One month after,Beta Variant,1/28/21,2/28/21,0.4,20,20
+New Mexico,One month before,Delta Variant,6/6/21,7/6/21,0.421052632,,19
+New Mexico,One month after,Delta Variant,7/7/21,8/7/21,0.772727273,83.52,22
+New Mexico,One month before,Omicron Variant,10/30/21,11/30/21,0.888888889,,9
+New Mexico,One month after,Omicron Variant,12/1/21,1/1/22,0.555555556,-37.5,9
+New Mexico,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.2,,5
+New Mexico,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.466666667,133.33,15
+New Mexico,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.9375,,16
+New Mexico,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.826086957,-11.88,23
+New Mexico,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.826086957,,23
+New Mexico,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.75,-9.21,8
+New Mexico,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.666666667,,9
+New Mexico,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.888888889,33.33,9
+New Mexico,One month before,Pause in J&J,3/12/21,4/12/21,0.352941176,,17
+New Mexico,One month after,Pause in J&J,4/13/21,5/13/21,1,183.33,4
+New York,One month before,Gamma Variant,12/24/20,1/24/21,0.46179402,,301
+New York,One month after,Gamma Variant,1/25/21,2/25/21,0.512195122,10.91,369
+New York,One month before,Beta Variant,12/27/20,1/27/21,0.468438538,,301
+New York,One month after,Beta Variant,1/28/21,2/28/21,0.519181586,10.83,391
+New York,One month before,Delta Variant,6/6/21,7/6/21,0.403225806,,248
+New York,One month after,Delta Variant,7/7/21,8/7/21,0.534328358,32.51,335
+New York,One month before,Omicron Variant,10/30/21,11/30/21,0.569892473,,372
+New York,One month after,Omicron Variant,12/1/21,1/1/22,0.452941176,-20.52,340
+New York,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.557640751,,373
+New York,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.587662338,5.38,308
+New York,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.451612903,,341
+New York,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.462337662,2.37,385
+New York,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.448548813,,379
+New York,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.395886889,-11.74,389
+New York,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.413612565,,382
+New York,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.559139785,35.18,372
+New York,One month before,Pause in J&J,3/12/21,4/12/21,0.534526854,,391
+New York,One month after,Pause in J&J,4/13/21,5/13/21,0.569518717,6.55,374
+North Carolina,One month before,Gamma Variant,12/24/20,1/24/21,0.48,,75
+North Carolina,One month after,Gamma Variant,1/25/21,2/25/21,0.426229508,-11.2,61
+North Carolina,One month before,Beta Variant,12/27/20,1/27/21,0.464788732,,71
+North Carolina,One month after,Beta Variant,1/28/21,2/28/21,0.446153846,-4.01,65
+North Carolina,One month before,Delta Variant,6/6/21,7/6/21,0.397260274,,73
+North Carolina,One month after,Delta Variant,7/7/21,8/7/21,0.474576271,19.46,59
+North Carolina,One month before,Omicron Variant,10/30/21,11/30/21,0.424657534,,73
+North Carolina,One month after,Omicron Variant,12/1/21,1/1/22,0.2,-52.9,50
+North Carolina,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.539325843,,89
+North Carolina,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.591836735,9.74,49
+North Carolina,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.575342466,,73
+North Carolina,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.470588235,-18.21,68
+North Carolina,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.492753623,,69
+North Carolina,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.311111111,-36.86,45
+North Carolina,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.52173913,,46
+North Carolina,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.410958904,-21.23,73
+North Carolina,One month before,Pause in J&J,3/12/21,4/12/21,0.462365591,,93
+North Carolina,One month after,Pause in J&J,4/13/21,5/13/21,0.584269663,26.37,89
+North Dakota,One month before,Gamma Variant,12/24/20,1/24/21,1,,1
+North Dakota,One month after,Gamma Variant,1/25/21,2/25/21,0,-100,2
+North Dakota,One month before,Beta Variant,12/27/20,1/27/21,1,,1
+North Dakota,One month after,Beta Variant,1/28/21,2/28/21,0,-100,2
+North Dakota,One month before,Delta Variant,6/6/21,7/6/21,0,,1
+North Dakota,One month after,Delta Variant,7/7/21,8/7/21,0.333333333,#DIV/0!,3
+North Dakota,One month before,Omicron Variant,10/30/21,11/30/21,1,,1
+North Dakota,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0,,2
+North Dakota,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.2,#DIV/0!,5
+North Dakota,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.333333333,,3
+North Dakota,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,-0.5,-250,4
+North Dakota,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,-0.5,,4
+North Dakota,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0,-100,2
+North Dakota,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.5,,2
+North Dakota,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,100,1
+North Dakota,One month before,Pause in J&J,3/12/21,4/12/21,1,,3
+North Dakota,One month after,Pause in J&J,4/13/21,5/13/21,0,-100,2
+Ohio,One month before,Gamma Variant,12/24/20,1/24/21,0.677419355,,93
+Ohio,One month after,Gamma Variant,1/25/21,2/25/21,0.5,-26.19,70
+Ohio,One month before,Beta Variant,12/27/20,1/27/21,0.677419355,,93
+Ohio,One month after,Beta Variant,1/28/21,2/28/21,0.455882353,-32.7,68
+Ohio,One month before,Delta Variant,6/6/21,7/6/21,0.432432432,,37
+Ohio,One month after,Delta Variant,7/7/21,8/7/21,0.37704918,-12.81,61
+Ohio,One month before,Omicron Variant,10/30/21,11/30/21,0.62745098,,51
+Ohio,One month after,Omicron Variant,12/1/21,1/1/22,0.183333333,-70.78,60
+Ohio,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.338461538,,65
+Ohio,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.394366197,16.52,71
+Ohio,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.350877193,,57
+Ohio,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.358490566,2.17,53
+Ohio,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.384615385,,52
+Ohio,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.302325581,-21.4,43
+Ohio,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.487179487,,39
+Ohio,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.666666667,36.84,51
+Ohio,One month before,Pause in J&J,3/12/21,4/12/21,0.5,,68
+Ohio,One month after,Pause in J&J,4/13/21,5/13/21,0.4,-20,85
+Oklahoma,One month before,Gamma Variant,12/24/20,1/24/21,0.620689655,,29
+Oklahoma,One month after,Gamma Variant,1/25/21,2/25/21,0.612903226,-1.25,31
+Oklahoma,One month before,Beta Variant,12/27/20,1/27/21,0.620689655,,29
+Oklahoma,One month after,Beta Variant,1/28/21,2/28/21,0.6,-3.33,30
+Oklahoma,One month before,Delta Variant,6/6/21,7/6/21,0,,5
+Oklahoma,One month after,Delta Variant,7/7/21,8/7/21,0.466666667,#DIV/0!,15
+Oklahoma,One month before,Omicron Variant,10/30/21,11/30/21,0.571428571,,14
+Oklahoma,One month after,Omicron Variant,12/1/21,1/1/22,0.5,-12.5,14
+Oklahoma,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.454545455,,11
+Oklahoma,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.428571429,-5.71,7
+Oklahoma,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.666666667,,18
+Oklahoma,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.176470588,-73.53,17
+Oklahoma,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.235294118,,17
+Oklahoma,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.444444444,88.89,18
+Oklahoma,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.533333333,,15
+Oklahoma,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.529411765,-0.74,17
+Oklahoma,One month before,Pause in J&J,3/12/21,4/12/21,0.666666667,,21
+Oklahoma,One month after,Pause in J&J,4/13/21,5/13/21,0.6,-10,10
+Oregon,One month before,Gamma Variant,12/24/20,1/24/21,0.5,,60
+Oregon,One month after,Gamma Variant,1/25/21,2/25/21,0.396551724,-20.69,58
+Oregon,One month before,Beta Variant,12/27/20,1/27/21,0.525423729,,59
+Oregon,One month after,Beta Variant,1/28/21,2/28/21,0.430555556,-18.06,72
+Oregon,One month before,Delta Variant,6/6/21,7/6/21,0.702702703,,37
+Oregon,One month after,Delta Variant,7/7/21,8/7/21,0.641509434,-8.71,53
+Oregon,One month before,Omicron Variant,10/30/21,11/30/21,0.407407407,,54
+Oregon,One month after,Omicron Variant,12/1/21,1/1/22,0.208333333,-48.86,48
+Oregon,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.578125,,64
+Oregon,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.596153846,3.12,52
+Oregon,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.64516129,,62
+Oregon,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.673469388,4.39,49
+Oregon,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.708333333,,48
+Oregon,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.463414634,-34.58,41
+Oregon,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.444444444,,36
+Oregon,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.388888889,-12.5,54
+Oregon,One month before,Pause in J&J,3/12/21,4/12/21,0.489795918,,49
+Oregon,One month after,Pause in J&J,4/13/21,5/13/21,0.571428571,16.67,70
+Pennsylvania,One month before,Gamma Variant,12/24/20,1/24/21,0.451923077,,104
+Pennsylvania,One month after,Gamma Variant,1/25/21,2/25/21,0.673684211,49.07,95
+Pennsylvania,One month before,Beta Variant,12/27/20,1/27/21,0.462962963,,108
+Pennsylvania,One month after,Beta Variant,1/28/21,2/28/21,0.688888889,48.8,90
+Pennsylvania,One month before,Delta Variant,6/6/21,7/6/21,0.36,,75
+Pennsylvania,One month after,Delta Variant,7/7/21,8/7/21,0.606557377,68.49,61
+Pennsylvania,One month before,Omicron Variant,10/30/21,11/30/21,0.507936508,,63
+Pennsylvania,One month after,Omicron Variant,12/1/21,1/1/22,0.357142857,-29.69,70
+Pennsylvania,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.530434783,,115
+Pennsylvania,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.5,-5.74,84
+Pennsylvania,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.458333333,,72
+Pennsylvania,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.405063291,-11.62,79
+Pennsylvania,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.363636364,,77
+Pennsylvania,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.44,21,100
+Pennsylvania,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.4375,,96
+Pennsylvania,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.507692308,16.04,65
+Pennsylvania,One month before,Pause in J&J,3/12/21,4/12/21,0.494949495,,99
+Pennsylvania,One month after,Pause in J&J,4/13/21,5/13/21,0.553719008,11.87,121
+Rhode Island,One month before,Gamma Variant,12/24/20,1/24/21,0.882352941,,17
+Rhode Island,One month after,Gamma Variant,1/25/21,2/25/21,0.615384615,-30.26,13
+Rhode Island,One month before,Beta Variant,12/27/20,1/27/21,0.842105263,,19
+Rhode Island,One month after,Beta Variant,1/28/21,2/28/21,0.6,-28.75,10
+Rhode Island,One month before,Delta Variant,6/6/21,7/6/21,0.307692308,,13
+Rhode Island,One month after,Delta Variant,7/7/21,8/7/21,0.111111111,-63.89,9
+Rhode Island,One month before,Omicron Variant,10/30/21,11/30/21,0.454545455,,11
+Rhode Island,One month after,Omicron Variant,12/1/21,1/1/22,-0.166666667,-136.67,6
+Rhode Island,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.714285714,,7
+Rhode Island,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.666666667,-6.67,12
+Rhode Island,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,-0.166666667,,6
+Rhode Island,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.5,-400,6
+Rhode Island,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.5,,6
+Rhode Island,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.333333333,-33.33,3
+Rhode Island,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.333333333,,3
+Rhode Island,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.4,20,10
+Rhode Island,One month before,Pause in J&J,3/12/21,4/12/21,0.705882353,,17
+Rhode Island,One month after,Pause in J&J,4/13/21,5/13/21,0.75,6.25,8
+South Carolina,One month before,Gamma Variant,12/24/20,1/24/21,0.483870968,,31
+South Carolina,One month after,Gamma Variant,1/25/21,2/25/21,0.45,-7,20
+South Carolina,One month before,Beta Variant,12/27/20,1/27/21,0.5,,32
+South Carolina,One month after,Beta Variant,1/28/21,2/28/21,0.45,-10,20
+South Carolina,One month before,Delta Variant,6/6/21,7/6/21,0.416666667,,12
+South Carolina,One month after,Delta Variant,7/7/21,8/7/21,0.75,80,28
+South Carolina,One month before,Omicron Variant,10/30/21,11/30/21,0.481481481,,27
+South Carolina,One month after,Omicron Variant,12/1/21,1/1/22,0.25,-48.08,16
+South Carolina,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.322580645,,31
+South Carolina,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.52,61.2,25
+South Carolina,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.678571429,,28
+South Carolina,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.346153846,-48.99,26
+South Carolina,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.4,,25
+South Carolina,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.304347826,-23.91,23
+South Carolina,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.315789474,,19
+South Carolina,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.464285714,47.02,28
+South Carolina,One month before,Pause in J&J,3/12/21,4/12/21,0.517241379,,29
+South Carolina,One month after,Pause in J&J,4/13/21,5/13/21,0.382352941,-26.08,34
+South Dakota,One month before,Gamma Variant,12/24/20,1/24/21,0,,1
+South Dakota,One month after,Gamma Variant,1/25/21,2/25/21,1,#DIV/0!,2
+South Dakota,One month before,Beta Variant,12/27/20,1/27/21,0.5,,2
+South Dakota,One month after,Beta Variant,1/28/21,2/28/21,1,100,1
+South Dakota,One month before,Delta Variant,6/6/21,7/6/21,0.571428571,,7
+South Dakota,One month after,Delta Variant,7/7/21,8/7/21,1,75,2
+South Dakota,One month before,Omicron Variant,10/30/21,11/30/21,1,,1
+South Dakota,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.666666667,#DIV/0!,3
+South Dakota,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.333333333,,3
+South Dakota,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,1,200,1
+South Dakota,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,1,,1
+South Dakota,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,1,0,1
+South Dakota,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.5,,4
+South Dakota,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,100,1
+South Dakota,One month before,Pause in J&J,3/12/21,4/12/21,1,,3
+Tennessee,One month before,Gamma Variant,12/24/20,1/24/21,0.428571429,,28
+Tennessee,One month after,Gamma Variant,1/25/21,2/25/21,0.428571429,0,49
+Tennessee,One month before,Beta Variant,12/27/20,1/27/21,0.466666667,,30
+Tennessee,One month after,Beta Variant,1/28/21,2/28/21,0.408163265,-12.54,49
+Tennessee,One month before,Delta Variant,6/6/21,7/6/21,-0.074074074,,27
+Tennessee,One month after,Delta Variant,7/7/21,8/7/21,0.571428571,-871.43,42
+Tennessee,One month before,Omicron Variant,10/30/21,11/30/21,0.379310345,,29
+Tennessee,One month after,Omicron Variant,12/1/21,1/1/22,0.433333333,14.24,30
+Tennessee,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.531914894,,47
+Tennessee,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.518518519,-2.52,27
+Tennessee,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.444444444,,45
+Tennessee,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.387755102,-12.76,49
+Tennessee,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.4,,50
+Tennessee,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.382352941,-4.41,34
+Tennessee,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.285714286,,35
+Tennessee,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.44,54,25
+Tennessee,One month before,Pause in J&J,3/12/21,4/12/21,0.491803279,,61
+Tennessee,One month after,Pause in J&J,4/13/21,5/13/21,0.522727273,6.29,44
+Texas,One month before,Gamma Variant,12/24/20,1/24/21,0.442307692,,208
+Texas,One month after,Gamma Variant,1/25/21,2/25/21,0.5,13.04,196
+Texas,One month before,Beta Variant,12/27/20,1/27/21,0.435406699,,209
+Texas,One month after,Beta Variant,1/28/21,2/28/21,0.526829268,21,205
+Texas,One month before,Delta Variant,6/6/21,7/6/21,0.341269841,,126
+Texas,One month after,Delta Variant,7/7/21,8/7/21,0.365638767,7.14,227
+Texas,One month before,Omicron Variant,10/30/21,11/30/21,0.26993865,,163
+Texas,One month after,Omicron Variant,12/1/21,1/1/22,0.414473684,53.54,152
+Texas,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.491712707,,181
+Texas,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.421383648,-14.3,159
+Texas,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.275985663,,279
+Texas,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.377906977,36.93,172
+Texas,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.356725146,,171
+Texas,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.280701754,-21.31,171
+Texas,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.34939759,,166
+Texas,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.278787879,-20.21,165
+Texas,One month before,Pause in J&J,3/12/21,4/12/21,0.49537037,,216
+Texas,One month after,Pause in J&J,4/13/21,5/13/21,0.541436464,9.3,181
+Utah,One month before,Gamma Variant,12/24/20,1/24/21,0.529411765,,17
+Utah,One month after,Gamma Variant,1/25/21,2/25/21,0.357142857,-32.54,14
+Utah,One month before,Beta Variant,12/27/20,1/27/21,0.526315789,,19
+Utah,One month after,Beta Variant,1/28/21,2/28/21,0.235294118,-55.29,17
+Utah,One month before,Delta Variant,6/6/21,7/6/21,0.8,,20
+Utah,One month after,Delta Variant,7/7/21,8/7/21,0.176470588,-77.94,17
+Utah,One month before,Omicron Variant,10/30/21,11/30/21,0.529411765,,34
+Utah,One month after,Omicron Variant,12/1/21,1/1/22,-0.214285714,-140.48,14
+Utah,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.470588235,,17
+Utah,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.666666667,41.67,15
+Utah,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.35,,20
+Utah,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.2,-42.86,10
+Utah,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.272727273,,11
+Utah,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.333333333,22.22,12
+Utah,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.444444444,,18
+Utah,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.515151515,15.91,33
+Utah,One month before,Pause in J&J,3/12/21,4/12/21,0.391304348,,23
+Utah,One month after,Pause in J&J,4/13/21,5/13/21,0.352941176,-9.8,17
+Vermont,One month before,Gamma Variant,12/24/20,1/24/21,0.714285714,,7
+Vermont,One month after,Gamma Variant,1/25/21,2/25/21,0.3,-58,10
+Vermont,One month before,Beta Variant,12/27/20,1/27/21,0.625,,8
+Vermont,One month after,Beta Variant,1/28/21,2/28/21,0.2,-68,10
+Vermont,One month before,Delta Variant,6/6/21,7/6/21,0.857142857,,7
+Vermont,One month after,Delta Variant,7/7/21,8/7/21,0.444444444,-48.15,9
+Vermont,One month before,Omicron Variant,10/30/21,11/30/21,1,,2
+Vermont,One month after,Omicron Variant,12/1/21,1/1/22,0.6,-40,5
+Vermont,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.538461538,,13
+Vermont,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.285714286,-46.94,7
+Vermont,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.714285714,,7
+Vermont,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.5,-30,4
+Vermont,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.6,,5
+Vermont,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,1,66.67,2
+Vermont,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,1,,4
+Vermont,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,0,2
+Vermont,One month before,Pause in J&J,3/12/21,4/12/21,0.428571429,,7
+Vermont,One month after,Pause in J&J,4/13/21,5/13/21,0.538461538,25.64,13
+Virginia,One month before,Gamma Variant,12/24/20,1/24/21,0.678571429,,56
+Virginia,One month after,Gamma Variant,1/25/21,2/25/21,0.452380952,-33.33,84
+Virginia,One month before,Beta Variant,12/27/20,1/27/21,0.671875,,64
+Virginia,One month after,Beta Variant,1/28/21,2/28/21,0.419753086,-37.53,81
+Virginia,One month before,Delta Variant,6/6/21,7/6/21,0.454545455,,55
+Virginia,One month after,Delta Variant,7/7/21,8/7/21,0.375,-17.5,48
+Virginia,One month before,Omicron Variant,10/30/21,11/30/21,0.452380952,,42
+Virginia,One month after,Omicron Variant,12/1/21,1/1/22,0.409090909,-9.57,44
+Virginia,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.563380282,,71
+Virginia,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.377777778,-32.94,45
+Virginia,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.421052632,,57
+Virginia,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.484375,15.04,64
+Virginia,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.46875,,64
+Virginia,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.403508772,-13.92,57
+Virginia,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.290909091,,55
+Virginia,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.425,46.09,40
+Virginia,One month before,Pause in J&J,3/12/21,4/12/21,0.422535211,,71
+Virginia,One month after,Pause in J&J,4/13/21,5/13/21,0.584615385,38.36,65
+Washington,One month before,Gamma Variant,12/24/20,1/24/21,0.357798165,,109
+Washington,One month after,Gamma Variant,1/25/21,2/25/21,0.475247525,32.83,101
+Washington,One month before,Beta Variant,12/27/20,1/27/21,0.372881356,,118
+Washington,One month after,Beta Variant,1/28/21,2/28/21,0.443298969,18.88,97
+Washington,One month before,Delta Variant,6/6/21,7/6/21,0.525773196,,97
+Washington,One month after,Delta Variant,7/7/21,8/7/21,0.609756098,15.97,82
+Washington,One month before,Omicron Variant,10/30/21,11/30/21,0.445945946,,74
+Washington,One month after,Omicron Variant,12/1/21,1/1/22,0.315217391,-29.31,92
+Washington,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.683823529,,136
+Washington,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.583333333,-14.7,108
+Washington,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.459459459,,111
+Washington,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.565789474,23.14,76
+Washington,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.554054054,,74
+Washington,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.408450704,-26.28,71
+Washington,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.384615385,,78
+Washington,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.458333333,19.17,72
+Washington,One month before,Pause in J&J,3/12/21,4/12/21,0.598484848,,132
+Washington,One month after,Pause in J&J,4/13/21,5/13/21,0.671532847,12.21,137
+West Virginia,One month before,Gamma Variant,12/24/20,1/24/21,0.5,,4
+West Virginia,One month before,Beta Variant,12/27/20,1/27/21,0.5,,4
+West Virginia,One month before,Delta Variant,6/6/21,7/6/21,0,,2
+West Virginia,One month after,Delta Variant,7/7/21,8/7/21,0.5,#DIV/0!,6
+West Virginia,One month before,Omicron Variant,10/30/21,11/30/21,0.833333333,,6
+West Virginia,One month after,Omicron Variant,12/1/21,1/1/22,1,20,2
+West Virginia,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.6,,5
+West Virginia,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.333333333,,3
+West Virginia,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,1,200,5
+West Virginia,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,1,,5
+West Virginia,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.8,-20,5
+West Virginia,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.8,,5
+West Virginia,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.833333333,4.17,6
+West Virginia,One month before,Pause in J&J,3/12/21,4/12/21,1,,4
+West Virginia,One month after,Pause in J&J,4/13/21,5/13/21,0.6,-40,5
+Wisconsin,One month before,Gamma Variant,12/24/20,1/24/21,0.35,,20
+Wisconsin,One month after,Gamma Variant,1/25/21,2/25/21,0.5,42.86,36
+Wisconsin,One month before,Beta Variant,12/27/20,1/27/21,0.363636364,,22
+Wisconsin,One month after,Beta Variant,1/28/21,2/28/21,0.454545455,25,33
+Wisconsin,One month before,Delta Variant,6/6/21,7/6/21,0.5,,12
+Wisconsin,One month after,Delta Variant,7/7/21,8/7/21,0.454545455,-9.09,22
+Wisconsin,One month before,Omicron Variant,10/30/21,11/30/21,0.416666667,,24
+Wisconsin,One month after,Omicron Variant,12/1/21,1/1/22,0.454545455,9.09,22
+Wisconsin,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.458333333,,24
+Wisconsin,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0.625,36.36,24
+Wisconsin,One month before,Comirnaty for 16yo+ FDA approval,7/22/21,8/22/21,0.230769231,,26
+Wisconsin,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,0.636363636,175.76,22
+Wisconsin,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,0.75,,20
+Wisconsin,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,0.304347826,-59.42,23
+Wisconsin,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,0.45,,20
+Wisconsin,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,0.458333333,1.85,24
+Wisconsin,One month before,Pause in J&J,3/12/21,4/12/21,0.586206897,,29
+Wisconsin,One month after,Pause in J&J,4/13/21,5/13/21,0.481481481,-17.86,27
+Wyoming,One month before,Gamma Variant,12/24/20,1/24/21,1,,1
+Wyoming,One month after,Gamma Variant,1/25/21,2/25/21,1,0,2
+Wyoming,One month before,Beta Variant,12/27/20,1/27/21,1,,2
+Wyoming,One month after,Beta Variant,1/28/21,2/28/21,1,0,1
+Wyoming,One month before,Delta Variant,6/6/21,7/6/21,-0.5,,2
+Wyoming,One month after,Delta Variant,7/7/21,8/7/21,0.333333333,-166.67,3
+Wyoming,One month before,Omicron Variant,10/30/21,11/30/21,1,,1
+Wyoming,One month after,Omicron Variant,12/1/21,1/1/22,1,0,2
+Wyoming,One month before,EUA for Pfizer vaccine for 12-15yo,4/9/21,5/9/21,0.8,,5
+Wyoming,One month after,EUA for Pfizer vaccine for 12-15yo,5/10/21,6/10/21,0,-100,1
+Wyoming,One month after,Comirnaty for 16yo+ FDA approval,8/23/21,9/23/21,-1,#DIV/0!,1
+Wyoming,One month before,Pfizer Booster for 65yo+ & 18-64 at high risk,8/21/21,9/21/21,-1,,1
+Wyoming,One month after,Pfizer Booster for 65yo+ & 18-64 at high risk,9/22/21,10/22/21,1,-200,1
+Wyoming,One month before,EUA for Pfizer vaccine for 5-11yo,9/28/21,10/28/21,1,,1
+Wyoming,One month after,EUA for Pfizer vaccine for 5-11yo,10/29/21,11/29/21,1,0,1
+Wyoming,One month before,Pause in J&J,3/12/21,4/12/21,1,,1
+Wyoming,One month after,Pause in J&J,4/13/21,5/13/21,0.8,-20,5
